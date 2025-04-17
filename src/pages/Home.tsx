@@ -13,7 +13,7 @@ const Home = () => {
         <div className="bg-white rounded-lg shadow-md overflow-hidden">
           <div className="relative h-64 bg-gradient-to-br from-blue-100 to-blue-50 flex items-center justify-center">
             <img 
-              src="https://drive.google.com/u/0/drive-viewer/AKGpihYm-cbMwSPpNmDk41hn_DO2Ezkj2AOG8ZSLguVmQPTnAvCPQ7yhg-LGfFuAOhCS-07djQyA_Gn31TBDP7KGHo4d3FcTQ84m5OY=s1600-rw-v1" 
+              src="/assets/Fp 2.png" 
               alt="Profile" 
               className="h-48 w-48 object-contain"
             />
